@@ -15,6 +15,7 @@ Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices wit
 <br><br>
 ![Alt text](images/pbox_populated.png)
 <br><br>
+<br><br>
 
 
 Intended as general purpose toolkit for new class of cost & energy efficient industrial applications such as refrigeration, electric transport, power generation & storage.
@@ -46,6 +47,6 @@ Custom hat development
 
 ## Donations
 
-Please consider supporting this project! Your donations are accepted & appreciated!
+Please consider supporting this project! Your donations are accepted & appreciated! eGift Cards to theloniustrout@gmail.com
 
 [Wishlist](fuel.pdf)
