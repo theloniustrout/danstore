@@ -28,19 +28,19 @@ All products are scalable from single family to village-sized or larger & design
 
 <br><br>
 
-## Stage Zero [link](pdf/stagezero.pdf)
+## Stage Zero [pdf](pdf/stagezero.pdf)
 RPI Zero hardware & software setup
-## Stage I [link](pdf/stagei.pdf)
+## Stage I [pdf](pdf/stagei.pdf)
 Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
-## Stage II [link](pdf/stageii.pdf)
+## Stage II [pdf](pdf/stageii.pdf)
 Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
-## Stage III [link](pdf/stageiii.pdf)
+## Stage III [pdf](pdf/stageiii.pdf)
 Analog I/O & oscilloscope
-## Stage IV [link](pdf/stageiv.pdf)
+## Stage IV [pdf](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
-## Stage V [link](pdf/stagev.pdf)
+## Stage V [pdf](pdf/stagev.pdf)
 Add custom power. Further reduction of sauce, moving breadboard circuits to protoboards.
-## Stage VI [link](pdf/stagevi.pdf)
+## Stage VI [pdf](pdf/stagevi.pdf)
 Custom hat development, research, testing
 
 <br><br>
