@@ -6,14 +6,14 @@ Raspberryproduce is a store for curating & distributing the best RPI Zero tools 
 
 <br><br>
 
-![Alt text](images/flatbread.png)
+![Alt text](png/flatbread.png)
 
 The unifying concept for the store is a new class of PC--Cuban flatbread. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
 
 Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile. Nothing new or fancy; just an entropy reducer to simplify the process & a collection of th best stuff in one place. 
 
 <br><br>
-![Alt text](images/stageiii.png)
+![Alt text](png/stageiii.png)
 <br><br>
 <br><br>
 
@@ -28,19 +28,19 @@ All products are scalable from single family to village-sized or larger & design
 
 <br><br>
 
-## Stage Zero
+## Stage Zero [link](pdf/stagezero.pdf)
 RPI Zero hardware & software setup
-## Stage I
+## Stage I [link](pdf/stagei.pdf)
 Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
-## Stage II
+## Stage II [link](pdf/stageii.pdf)
 Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
-## Stage III
+## Stage III [link](pdf/stageiii.pdf)
 Analog I/O & oscilloscope
-## Stage IV
+## Stage IV [link](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
-## Stage V
-Further reduction of sauce, moving breadboard circuits to protoboards
-## Stage VI
+## Stage V [link](pdf/stagev.pdf)
+Add custom power. Further reduction of sauce, moving breadboard circuits to protoboards.
+## Stage VI [link](pdf/stagevi.pdf)
 Custom hat development, research, testing
 
 <br><br>
@@ -55,7 +55,7 @@ Toss in VESC
 <br><br>
 
 
-## Major Milestone Target
+## Major Milestone Targets
 * Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, India.
 
 * Link to Collective Electrodynamics electronics from First Principles Coursework
