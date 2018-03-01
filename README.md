@@ -10,6 +10,8 @@ The unifying product/concept for the store is a new class of PC, codename pbox. 
 
 Backbone is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile.  
 
+![Alt text](images/pbox_populated.png)
+
 Intended for new class of cost & energy efficient industrial applications such as refridgeration, electric transport, power generation & storage.
 
 While the focus is industrial, the prices, openness, architecture, applicability, & efficiency are optimal & best of class. The assumption being that price, not education is the current barrier to entry for light industrial development of village centers & cottage industry.
