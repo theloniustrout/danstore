@@ -1,14 +1,16 @@
 # RaspberryProduce
 
 
+<br><br>
+Is a store for gathering the best RPI Zero tools for the production of village infrastructure & cottage industry tools for  control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
 
-Is a store for the production of village infrastructure & cottage industry tools centered on Linux/Python control & automation of: information, electromagnetic, fluid, & mechanical work: [pbox automation, Cyclone fluid, VESC electrical power conversion ] tools.
+<br><br>
 
 ![Alt text](images/pbox.png)
 
-The unifying product/concept for the store is a new class of PC, codename pbox. The PC is itself a prototyping environment that through subtraction evolves to the prototype & production tool. 
+The unifying concept for the store is a new class of PC, codenamed pbox. The PC is itself a prototyping environment that through subtraction evolves to the prototype & production tool. 
 
-Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile.  
+Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile. Nothing new or fancy; just an entropy reducer to simplify the process & a collection of th best stuff in one place. 
 
 <br><br>
 ![Alt text](images/pbox_populated.png)
@@ -36,26 +38,14 @@ Addition of analog I/O & oscilloscope
 ## Stage IV
 Mixing of breadboard designs & hats & reduction of function
 ## Stage V
-Further reduction of sauce moving breadboard circuits to protoboards
+Further reduction of sauce, moving breadboard circuits to protoboards
 ## Stage VI
 Custom hat development
 
+<br><br>
 
+## Donations
 
-#Donate
+Please consider supporting this project! Your donations are accepted & appreciated!
 
-I am doing the project dev on my own dime, donations accepted & appreciated!
-
-[Wishlist](wishlist.pdf)
-
-
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
-
-
-
+[Wishlist](fuel.pdf)
