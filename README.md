@@ -1,14 +1,14 @@
-# RaspberryProduce
+
 
 
 <br><br>
-Is a store for gathering the best RPI Zero tools for the production of village infrastructure & cottage industry tools for  control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
+Is a store for curating & distributing the best RPI Zero tools for the production of village infrastructure & cottage industry tools for  control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
 
 <br><br>
 
 ![Alt text](images/pbox.png)
 
-The unifying concept for the store is a new class of PC, codenamed pbox. The PC is itself a prototyping environment that through subtraction evolves to the prototype & production tool. 
+The unifying concept for the store is a new class of PC, code-nam pbox. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
 
 Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile. Nothing new or fancy; just an entropy reducer to simplify the process & a collection of th best stuff in one place. 
 
@@ -27,23 +27,34 @@ Economically, the intention is to catalyze distributed ownership of manufacturin
 All products are scalable from single family to village-sized or larger & designed to be be competitive with the best-of-class industrial solutions.
 
 <br><br>
-<br><br>
-<br><br>
 
 ## Stage I
-Portable, compact, rpi Zero focused breadboarding
+Portable, compact, rpi Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
 ## Stage II
 Testing of hats with GPIO &/or I2C plugs
 ## Stage III
-Addition of analog I/O & oscilloscope
+Analog I/O & oscilloscope
 ## Stage IV
 Mixing of breadboard designs & hats & reduction of function
 ## Stage V
 Further reduction of sauce, moving breadboard circuits to protoboards
 ## Stage VI
-Custom hat development
+Custom hat development, research, testing.
 
 <br><br>
+
+## Status
+Concept development
+<br><br>
+
+## Next Steps
+Sourcing, assembly, testing of pbox.
+<br><br>
+
+
+## Major Milestone Target
+Integration of pbox with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, India.
+
 
 ## Donations
 
