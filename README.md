@@ -2,9 +2,9 @@
 
 
 
-Is a store for the production of village infrastructure & cottage industry tools centered on Linux/Python control & automation of: ,information, electromagnetic, fluid, & mechanical work: [pbox automation, Cyclone fluid, VESC electrical power conversion ] tools.
+Is a store for the production of village infrastructure & cottage industry tools centered on Linux/Python control & automation of: information, electromagnetic, fluid, & mechanical work: [pbox automation, Cyclone fluid, VESC electrical power conversion ] tools.
 
-![Alt text](https://github.com/theloniustrout/raspberryproduce/tree/master/images/pbox.png)
+![Alt text](images/pbox.png)
 
 The unifying product/concept for the store is a new class of PC, codename pbox. The PC is itself a prototyping environment that through subtraction evolves to the prototype & production tool. 
 
