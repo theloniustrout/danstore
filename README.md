@@ -1,4 +1,4 @@
 # raspberryproduce
 
-![GitHub Logo](/images/pm.png)
-Format: ![Alt Text](url)
+
+![Alt text](https://rawgit.com/theloniustrout/raspberryproduce/master/images/pm.png)
