@@ -62,10 +62,9 @@ Toss in VESC
 
 <br><br>
 ## Donations
-
-eGiftCard:  theloniustrout@gmail.com
-Fiat:       paypal.me/entangled@gmail.com
-Bitcoin:    
-STEEM:      @theloniustrout
+eGiftCard:  theloniustrout@gmail.com<br />
+Fiat:       paypal.me/entangled@gmail.com<br />
+Bitcoin:    <br />
+STEEM:      @theloniustrout<br />
 
 [Wishlist](fuel.pdf)
