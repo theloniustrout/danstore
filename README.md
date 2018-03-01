@@ -8,7 +8,7 @@ Raspberryproduce is a store for curating & distributing the best RPI Zero tools 
 
 ![Alt text](png/flatbread.png)
 
-The unifying concept for the store is a new class of PC--Cuban flatbread. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
+The unifying concept for the store is a new class of PC--Cuban Flatbread. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
 
 Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile. Nothing new or fancy; just an entropy reducer to simplify the process & a collection of th best stuff in one place. 
 
@@ -64,7 +64,7 @@ Toss in VESC
 ## Donations
 eGiftCard:  theloniustrout@gmail.com<br />
 Fiat:       paypal.me/entangled@gmail.com<br />
-Bitcoin:    <br />
+Bitcoin:    36fAic98Sevtonnr75orbn3w3tGfVcct8V<br />
 STEEM:      @theloniustrout<br />
 
 [Wishlist](fuel.pdf)
