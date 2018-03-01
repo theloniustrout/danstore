@@ -8,7 +8,7 @@ Is a store for curating & distributing the best RPI Zero tools for the productio
 
 ![Alt text](images/pbox.png)
 
-The unifying concept for the store is a new class of PC, code-nam pbox. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
+The unifying concept for the store is a new class of PC, code-name Cuban flatbread. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
 
 Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile. Nothing new or fancy; just an entropy reducer to simplify the process & a collection of th best stuff in one place. 
 
@@ -28,18 +28,20 @@ All products are scalable from single family to village-sized or larger & design
 
 <br><br>
 
+## Stage Zero
+RPI Zero hardware & software setup
 ## Stage I
-Portable, compact, rpi Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
+Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
 ## Stage II
-Testing of hats with GPIO &/or I2C plugs
+Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
 ## Stage III
 Analog I/O & oscilloscope
 ## Stage IV
-Mixing of breadboard designs & hats & reduction of function
+Mixing of breadboard designs & hats; reduction of function
 ## Stage V
 Further reduction of sauce, moving breadboard circuits to protoboards
 ## Stage VI
-Custom hat development, research, testing.
+Custom hat development, research, testing
 
 <br><br>
 
@@ -48,16 +50,22 @@ Concept development
 <br><br>
 
 ## Next Steps
-Sourcing, assembly, testing of pbox.
+Sourcing, assembly, testing of Cuban Flatbread.
+Toss in VESC
 <br><br>
 
 
 ## Major Milestone Target
-Integration of pbox with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, India.
+* Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, India.
 
+* Link to Collective Electrodynamics electronics from First Principles Coursework
 
+<br><br>
 ## Donations
 
-Please consider supporting this project! Your donations are accepted & appreciated! eGift Cards to theloniustrout@gmail.com
+eGiftCard:  theloniustrout@gmail.com
+Fiat:       paypal.me/entangled@gmail.com
+Bitcoin:    
+STEEM:      @theloniustrout
 
 [Wishlist](fuel.pdf)
