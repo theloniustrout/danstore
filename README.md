@@ -6,14 +6,14 @@ Is a store for curating & distributing the best RPI Zero tools for the productio
 
 <br><br>
 
-![Alt text](images/pbox.png)
+![Alt text](images/flatbread.png)
 
 The unifying concept for the store is a new class of PC, code-name Cuban flatbread. The PC is itself a maximally generalized & flexibile prototyping environment that reduces to the prototype & production tool as the prototype evolves, without significant changes to the dev-env. 
 
 Backplane is shared GPIO for Hats utilizing Pimoroni backplane & I2C devices with two sizes of JST plugs for Sparkfun & Adafruit. Open, portable, low profile. Nothing new or fancy; just an entropy reducer to simplify the process & a collection of th best stuff in one place. 
 
 <br><br>
-![Alt text](images/pbox_populated.png)
+![Alt text](images/stageiii.png)
 <br><br>
 <br><br>
 
