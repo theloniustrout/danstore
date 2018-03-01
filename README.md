@@ -2,7 +2,7 @@
 
 
 <br><br>
-Raspberryproduce is a store for curating & distributing the best RPI Zero tools for the production of village infrastructure & cottage industry tools for  control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
+Raspberryproduce is a store for curating & distributing the best RPI Zero tools for the production of village infrastructure. Cottage industry dev tools for  control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
 
 <br><br>
 
@@ -39,7 +39,7 @@ Analog I/O & oscilloscope
 ## Stage IV [pdf](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
 ## Stage V [pdf](pdf/stagev.pdf)
-Add custom power. Further reduction of sauce, moving breadboard circuits to protoboards.
+Add custom power. Further reduction of sauce, moving breadboard circuits to protoboards
 ## Stage VI [pdf](pdf/stagevi.pdf)
 Custom hat development, research, testing
 
@@ -50,15 +50,15 @@ Concept development
 <br><br>
 
 ## Next Steps
-Sourcing, assembly, testing of Cuban Flatbread.
+Sourcing, assembly, testing of Cuban Flatbread<br />
 Toss in VESC
 <br><br>
 
 
 ## Major Milestone Targets
-* Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, India.
+* Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, Sri Lanka
 
-* Link to Collective Electrodynamics electronics from First Principles Coursework
+* Conceptual foundational support with Collective Electrodynamics electronics from first principles Coursework
 
 <br><br>
 ## Donations
@@ -67,4 +67,6 @@ Fiat:       paypal.me/entangled@gmail.com<br />
 Bitcoin:    36fAic98Sevtonnr75orbn3w3tGfVcct8V<br />
 STEEM:      @theloniustrout<br />
 
+
 [Wishlist](fuel.pdf)
+
