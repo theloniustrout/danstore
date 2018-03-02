@@ -25,20 +25,20 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 
 80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. 5%-50% worldwide net gains are thus possible by lowering the price barrier to high performance energy utilization. 
 
-The initial reference design will focus on support systems for the VESC electric motor driver & power conversion software. Ben Vedder's 50V 100A reference design is in high demand with the skate community, & a 75V 200A reference design is in the prototyping stage. An IGBT reference design is available with a clear path to SiC mosfets.
+The initial reference design will focus on support systems for the VESC electric motor driver & power conversion software. Ben Vedder's 50V 100A reference design is in high demand with the skate community, & a 75V 200A reference design is in the prototyping stage.
 
 ![Alt text](png/vesc6.4.png)
 
 The development concept is not unlike the [Two Cowboy](https://www.youtube.com/watch?v=SDHqzUz39mU) dark fiber infrasture in Old's Canada. 
 
-The working assumption is that the barrier to adoption to commodity electromechanical & power systems are the complexities introduced by the middleman involved in de-creaming the technology. Highly refined industrial control & software commutation is now available in mass production, up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to small groups of individuals without requiring capitalization by fiat currency; elimating the dependency on a banker in the system.
+The working assumption is that the barrier to adoption to commodity electromechanical & power systems are the complexities introduced by the middleman involved in de-creaming the technology. Highly refined industrial control & software commutation is now available in mass production, up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to individuals & communities without requiring capitalization by fiat currency.
 
-Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI, robotics, & surveillance. The reference system in development is designed to provide a viable alternative for those interested in devloping these concepts in their communities.
+Increasing the distribution of ownership of manufacturing & energy production provides a means to disengage with centralized entities involved in displacement of salaried labor via AI, robotics, & surveillance & market-consolidation via mind control. The reference system in development is designed to provide a viable alternative for those interested in devloping these concepts in their communities.
 
 All products are designed to be scalable from single family to village-sized or larger & are intended to outperform modern industry standards. 
 
 ![Alt text](png/igbt.png)
-IGBT design based off a Silicon Carbide reference. The wide-bandgap materials are good for power densities in excess of a megawatt for a small system.
+[IGBT design](https://github.com/paltatech/VESC-controller) based off a Silicon Carbide reference. The wide-bandgap materials are good for power densities in excess of a megawatt for a small system.
 
 <br><br>
 
