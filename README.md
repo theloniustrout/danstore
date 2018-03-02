@@ -14,7 +14,8 @@ The unifying concept for the store is a new class of PC, code name--Cuban Flatbr
 
 The enabling concept is the utilization shared GPIO for Hats utilizing a Pimoroni backplane in combination with the Sparkfun I2C ecology. The mashup brings the functionality beyond the level of gizmos & into more useful systems. 
 
-Integrated & low profile with minimal need for breadboarding; simplifies the initial development & consolidating the system for manageable & even portable workspaces as the design is iterated.
+Integrated & low profile with minimal need for breadboarding; simplifies the initial development while consolidating the system for manageable & portable workspaces.
+
 
 <br><br>
 ![Alt text](png/stageiii.png)
@@ -23,18 +24,17 @@ Integrated & low profile with minimal need for breadboarding; simplifies the ini
 
 
 
-80% of all energy used on the planet goes to spinning electrical motors. The majority of these are subpar in efficiency; & developing nations are bringing more online exponentially. 
+The reference designs will focus on support systems for the VESC electric motor driver & power conversion software.
 
-Price is the barrier to entry for light industrial development of village centers & cottage industry. The best of the best quality brushless drives,are now availble for the cost of the PCB & BOM. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies of a gradual upgrades as villages develop.
+80% of all energy used on the planet goes to spinning electrical motors. 
 
+The majority of these are subpar in efficiency; & developing nations are bringing more online exponentially with a bias toward inexpensive systems. 
 
-While the focus is the highest quality industrial grade processes; the prices, openness, architecture, applicability, & efficiency remain optimal & best of class due to the open architecture.
-
-Cash poor villages, therefore, do not need to build on low efficiency systems; you can start at the top for the same price--analogous to the commonidfication of Linux machines.
+The best of the best quality brushless drives,are now availble for the cost of the PCB & BOM. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies of a gradual upgrades.
 
 Economically, the intention is to catalyze distributed ownership of manufacturing to compete with centralized displacement of workers via AI,robotics, & end-user consumption of leased product marketing.
 
-All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing FOC drives with Python interconnects as the default solution.
+All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing FOC drives with Python interfacing as the default solution.
 
 
 <br><br>
