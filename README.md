@@ -28,11 +28,13 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 
 ![Alt text](png/vesc6.4.png)
 
+The development concept is not unlike the [Two Cowboy](https://www.youtube.com/watch?v=SDHqzUz39mU) dark fiber infrasture in Old's Canada. 
+
 Highly refined software commutation is now availble for not much more thatn the cost of the parts up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the costs & misery of a gradual upgrade proess.
 
 ![Alt text](png/igbt.png)
 
-Increasing the distrubition of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of workers via AI & robotics. Compliant end-user adoption of leased products is now institutionalized through decades of training & being consolidated by spying on purchasing behavior & mass movements. This will change rapidly with a better alternative put into place.
+Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI & robotics. Compliant end-user adoption of leased products is now institutionalized through decades of training & being consolidated by spying on purchasing behavior & mass movements. This will change rapidly with a better alternative put into place.
 
 All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution.
 
