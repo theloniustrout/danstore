@@ -23,17 +23,19 @@ Integrated & low profile with minimal need for breadboarding; simplifies the ini
 
 
 
+80% of all energy used on the planet goes to spinning electrical motors. The majority of these are subpar in efficiency; & developing nations are bringing more online exponentially. 
 
-Price is the barrier to entry for light industrial development of village centers & cottage industry. Industrial quality brushless drives, e.g. are now availble for the cost of the PCB & BOM. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the middle-man.
+Price is the barrier to entry for light industrial development of village centers & cottage industry. The best of the best quality brushless drives,are now availble for the cost of the PCB & BOM. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies of a gradual upgrades as villages develop.
 
 
-While the focus is the highest quality industrial grade processes, the prices, openness, architecture, applicability, & efficiency remain optimal & best of class due to the open architecture.
+While the focus is the highest quality industrial grade processes; the prices, openness, architecture, applicability, & efficiency remain optimal & best of class due to the open architecture.
 
-Cash poor villages, therefore, do not need to build on low efficiency systems; you can start at the top for the same price--not only with the Linux machine, but also with the drives. 
+Cash poor villages, therefore, do not need to build on low efficiency systems; you can start at the top for the same price--analogous to the commonidfication of Linux machines.
 
 Economically, the intention is to catalyze distributed ownership of manufacturing to compete with centralized displacement of workers via AI,robotics, & end-user consumption of leased product marketing.
 
-All products are scalable from single family to village-sized or larger & designed to be be competitive with the best-of-class industrial solutions.
+All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing FOC drives with Python interconnects as the default solution.
+
 
 <br><br>
 
