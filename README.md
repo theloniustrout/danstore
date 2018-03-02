@@ -34,7 +34,7 @@ Highly refined software commutation is now availble for not much more thatn the 
 
 ![Alt text](png/igbt.png)
 
-Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI & robotics. Compliant end-user adoption of leased products is now institutionalized through decades of training & being consolidated by spying on purchasing behavior & mass movements. This will change rapidly with a better alternative put into place.
+Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI, robotics, & surveillance. The reference system provides a viable alternative for those interested in pursuing it. 
 
 All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution.
 
