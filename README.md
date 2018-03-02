@@ -28,9 +28,13 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 
 The initial reference designs will focus on support systems for the VESC electric motor driver & power conversion software.
 
-80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. Therefore potentially 5% or more overall gains are possible by lowering the price barrier to high performance energy utilization.
+![Alt text](png/vesc6.4.png)
 
-Highly refined software commutation is now availble for the cost of the PCB & BOM up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies & misery of a gradual upgrade proess.
+80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. Therefore potentially 5% or more overall gains are possible by lowering the price barrier to high performance energy utilization inherent in open systems designs.
+
+Highly refined software commutation is now availble for not much more thatn the cost of the parts up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies & misery of a gradual upgrade proess.
+
+![Alt text](png/igbt.png)
 
 Economically, the intention is to catalyze distributed ownership of manufacturing to compete with centralized displacement of workers via AI,robotics, & end-user consumption of leased product marketing.
 
