@@ -88,7 +88,7 @@ Toss in VESC
 
 
 ## Major Milestone Targets
-* Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform in Sri Lanka for power, water, cooling, & light. 
+* Offgrid power plant supporting water, cooling, & light. 25KWH energy storage integrated with .25-25kw VESC machines as end-to-end scalable in size & number. All inclusive system costs less than $500/kw.
 
 
 <br><br>
