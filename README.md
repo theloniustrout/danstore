@@ -13,7 +13,7 @@ The unifying concept for the store is a new class of PC, code name--Cuban Flatbr
 
 The configuration reduces to the prototype & production tools as the prototype evolves, without significant changes to the dev-env. 
 
-The system architecture organizational concept is the utilization of shared GPIO for Hats utilizing a Pimoroni backplane in combination with the Sparkfun I2C ecology with 1mm pitch, 4-pin JST connector. The design is intended to bring the functionality of prototyping environments beyond the level of gizmos, to include all required system functionality & power, while minimzing custom work & maintaining a mobile environment. 
+The system architecture organizational concept is the utilization of shared GPIO for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector. The design is intended to bring the functionality of prototyping environments beyond the level of gizmos, to include all required system functionality & power, while minimzing custom work & maintaining a mobile environment. 
 
 Low profile, highly integrated, with minimal need for breadboarding, simplifies the initial development while consolidating the system for manageable workspaces.
 
