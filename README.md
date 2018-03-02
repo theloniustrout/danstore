@@ -44,25 +44,31 @@ IGBT design based off a Silicon Carbide reference. The wide-bandgap materials ar
 
 ## Stage Zero [pdf](pdf/stagezero.pdf)
 RPI Zero hardware & software setup
+<br><br>
 ## Stage I [pdf](pdf/stagei.pdf)
 Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
+<br><br>
 ## Stage II [pdf](pdf/stageii.pdf)
 Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
+<br><br>
 ## Stage III
 General subsystems
+<br><br>
 ### Stage III.1 [pdf](pdf/stageiii.pdf)
 Analog I/O & oscilloscope
 ### Stage III.2 
 Data presentation: Eink, Oled, Neopixel, etc.
 ### Stage III.3 
 CAN, UART, PPM, for inverter/motor controller
+<br><br>
 ## Stage IV [pdf](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
+<br><br>
 ## Stage V [pdf](pdf/stagev.pdf)
 Add custom power. Further reduction of sauce, moving breadboard circuits to protoboards
+<br><br>
 ## Stage VI [pdf](pdf/stagevi.pdf)
 Custom hat development, research, testing
-
 <br><br>
 
 ## Status
