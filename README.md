@@ -4,7 +4,15 @@
 <br><br>
 Raspberryproduce is a store for curating & distributing the best RPI Zero tools with a focus on the design, development, & production of village infrastructure. 
 
-Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam engines, energy storage & conversion; & [VESC](http://vesc-project.com) electrical power conversion.
+Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python & [VESC](http://vesc-project.com) electrical power conversion.
+
+Energy generation is TBD. Possibilities include:<br />
+Ebay 30kw Capstone @ $100/kw; 25% electrical, 85% CHP; high power density<br />
+Solar<br />
+Low head hydro<br />
+[Cyclone](http://cyclone-power.com) steam engines when they have something in production<br />
+
+
 
 <br><br>
 
@@ -29,16 +37,17 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 ![Alt text](png/vesc6.4.png)
 
 The development concept is not unlike the [Two Cowboy](https://www.youtube.com/watch?v=SDHqzUz39mU) dark fiber infrasture in Old's Canada. 
+ 
 
-Highly refined software commutation is now availble for not much more thatn the cost of the parts up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the costs & misery of a gradual upgrade proess.
+The working assumption is that the barrier to adoption to the most useful technology are the complexities & scrapping of middle-man attached to commodity systems. Highly refined industrial control & software commutation is now available in mass production, up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to small groups of individuals without requiring fiat banking capitalization.
 
-Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI, robotics, & surveillance. The reference system provides a viable alternative for those interested in pursuing it. 
+Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI, robotics, & surveillance. The reference system provides a viable alternative for those interested in devloping these concepts in their communities.
 
 
-All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution. This is an IGBT design based off a Silicon Carbide reference. The wide-bandgap materials are good for power densities in excess of a megawatt for a small system.
+All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards. 
 
 ![Alt text](png/igbt.png)
-
+IGBT design based off a Silicon Carbide reference. The wide-bandgap materials are good for power densities in excess of a megawatt for a small system.
 
 <br><br>
 
@@ -50,6 +59,10 @@ Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](h
 Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
 ## Stage III [pdf](pdf/stageiii.pdf)
 Analog I/O & oscilloscope
+## Stage III.1 
+Data visualization: eink; oled; Neopixel; & friends
+## Stage III.2 
+CAN, UART, PPM, for VESC
 ## Stage IV [pdf](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
 ## Stage V [pdf](pdf/stagev.pdf)
@@ -70,9 +83,8 @@ Toss in VESC
 
 
 ## Major Milestone Targets
-* Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform, Sri Lanka
+* Integration of Cuban Flatbread with 25KWH fluid energy storage & flex-fuel powered 25 VESC mechanical device as end-to-end reference platform in Sri Lanka for power, water, cooling, & light. 
 
-* Conceptual foundational support with Collective Electrodynamics electronics from first principles Coursework
 
 <br><br>
 ## Donations
