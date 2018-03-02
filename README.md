@@ -2,9 +2,7 @@
 
 
 <br><br>
-Raspberryproduce is a store for curating & distributing the best RPI Zero tools with a focus on the design, development, & production of village infrastructure. 
-
-Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python & [VESC](http://vesc-project.com) electrical power conversion.
+Raspberryproduce is a store for curating & distributing the best RPI Zero tools with a focus on the design, development, & production of village infrastructure. Tool kits are in development for control & automation of energy, mechanical, & fluid systems.
 
 
 <br><br>
