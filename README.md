@@ -4,17 +4,19 @@
 <br><br>
 Raspberryproduce is a store for curating & distributing the best RPI Zero tools with a focus on the design, development, & production of village infrastructure. 
 
-Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
+Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam engines, energy storage & conversion; & [VESC](http://vesc-project.com) electrical power conversion.
 
 <br><br>
 
 ![Alt text](png/flatbread.png)
 
-The unifying concept for the store is a new class of PC, code name--Cuban Flatbread. This PC is designed to be a flexibile prototyping environment. The configuration reduces to the prototype & production tools as the prototype evolves, without significant changes to the dev-env. 
+The unifying concept for the store is a new class of PC, code name--Cuban Flatbread. This PC is designed to be a flexibile prototyping environment for power & mechanical systems. 
 
-The enabling concept is the utilization shared GPIO for Hats utilizing a Pimoroni backplane in combination with the Sparkfun I2C ecology. The mashup brings the functionality beyond the level of gizmos & into more useful systems. 
+The configuration reduces to the prototype & production tools as the prototype evolves, without significant changes to the dev-env. 
 
-Integrated & low profile with minimal need for breadboarding; simplifies the initial development while consolidating the system for manageable & portable workspaces.
+The enabling concept is the utilization of shared GPIO for Hats utilizing a Pimoroni backplane in combination with the Sparkfun I2C ecology with standardized JST 1mm plugs. The mashup brings the functionality beyond the level of gizmos & into more useful systems while minimzing custom work. 
+
+Low profile, highly integrated, with minimal need for breadboarding, simplifies the initial development while consolidating the system for manageable & portable workspaces.
 
 
 <br><br>
@@ -24,17 +26,15 @@ Integrated & low profile with minimal need for breadboarding; simplifies the ini
 
 
 
-The reference designs will focus on support systems for the VESC electric motor driver & power conversion software.
+The initial reference designs will focus on support systems for the VESC electric motor driver & power conversion software.
 
-80% of all energy used on the planet goes to spinning electrical motors. 
+80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. Therefore potentially 5% or more overall gains are possible by lowering the price barrier to high performance energy utilization.
 
-The majority of these are subpar in efficiency; & developing nations are bringing more online exponentially with a bias toward inexpensive systems. 
-
-The best of the best quality brushless drives,are now availble for the cost of the PCB & BOM. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies of a gradual upgrades.
+Highly refined software commutation is now availble for the cost of the PCB & BOM up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the inefficiencies & misery of a gradual upgrade proess.
 
 Economically, the intention is to catalyze distributed ownership of manufacturing to compete with centralized displacement of workers via AI,robotics, & end-user consumption of leased product marketing.
 
-All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing FOC drives with Python interfacing as the default solution.
+All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution.
 
 
 <br><br>
