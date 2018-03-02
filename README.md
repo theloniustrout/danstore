@@ -59,7 +59,7 @@ Analog I/O & oscilloscope
 ### Stage III.2 
 Data presentation: Eink, Oled, Neopixel, etc.
 ### Stage III.3 
-CAN, UART, PPM, for inverter/motor controller
+[Interface](https://github.com/LiamBindle/PyVESC) for inverter/motor controller
 <br><br>
 ## Stage IV [pdf](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
