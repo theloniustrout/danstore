@@ -48,12 +48,14 @@ RPI Zero hardware & software setup
 Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](http://abyz.me.uk/rpi/pigpio/).
 ## Stage II [pdf](pdf/stageii.pdf)
 Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
-## Stage III [pdf](pdf/stageiii.pdf)
+## Stage III
+General subsystems
+### Stage III.1 [pdf](pdf/stageiii.pdf)
 Analog I/O & oscilloscope
-## Stage III.1 
-Data visualization: eink; oled; Neopixel; & friends
-## Stage III.2 
-CAN, UART, PPM, for VESC
+### Stage III.2 
+Data presentation: Eink, Oled, Neopixel, etc.
+### Stage III.3 
+CAN, UART, PPM, for inverter/motor controller
 ## Stage IV [pdf](pdf/stageiv.pdf)
 Mixing of breadboard designs & hats; reduction of function
 ## Stage V [pdf](pdf/stagev.pdf)
