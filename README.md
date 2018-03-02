@@ -19,6 +19,7 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 
 
 <br><br>
+![Alt text](png/bbcase.png)
 ![Alt text](png/casestageiii.png)
 <br><br>
 <br><br>
