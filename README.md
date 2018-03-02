@@ -2,17 +2,17 @@
 
 
 <br><br>
-Raspberryproduce is a store for curating & distributing the best RPI Zero tools for the design, development, & production of village infrastructure using the best of the best, but doing it on the cheap. 
+Raspberryproduce is a store for curating & distributing the best RPI Zero tools with a focus on the design, development, & production of village infrastructure. 
 
-The tool kits are  dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
+Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python, [Cyclone](http://cyclone-power.com) steam power & fluid energy storage & conversion, [VESC](http://vesc-project.com) electrical power conversion.
 
 <br><br>
 
 ![Alt text](png/flatbread.png)
 
-The unifying concept for the store is a new class of PC, code name--Cuban Flatbread. The PC is itself a maximally generalized & flexibile prototyping environment. The configuration reduces to the prototype & production tools as the prototype evolves, without significant changes to the dev-env. 
+The unifying concept for the store is a new class of PC, code name--Cuban Flatbread. This PC is designed to be a flexibile prototyping environment. The configuration reduces to the prototype & production tools as the prototype evolves, without significant changes to the dev-env. 
 
-The enabling concept is the utilization shared GPIO for Hats utilizing Pimoroni backplane which brings the functionality behond the level of gizmos & into proper systems. In one of the slots are 4 port I2C plugs in order to fold in the Sparkfun ecosystem.
+The enabling concept is the utilization shared GPIO for Hats utilizing a Pimoroni backplane in combination with the Sparkfun I2C ecology. The mashup brings the functionality beyond the level of gizmos & into more useful systems. 
 
 Integrated & low profile with minimal need for breadboarding; simplifies the initial development & consolidating the system for manageable & even portable workspaces as the design is iterated.
 
