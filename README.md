@@ -6,18 +6,6 @@ Raspberryproduce is a store for curating & distributing the best RPI Zero tools 
 
 Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python & [VESC](http://vesc-project.com) electrical power conversion.
 
-Energy generation is TBD. Possibilities include:<br />
-Stationary:<br />
-Solar $500/kw<br />
-Low head hydro<br />
-Mobile:<br />
-Ebay 30kw Capstone @ $100/kw; 25% electrical, 85% CHP; high power density<br />
-[Cyclone](http://cyclone-power.com) steam engines when they have something in production<br />
-Fuel:<br />
-Jim Moden NH3 monopropllent 
-Syngas
-
-
 
 <br><br>
 
@@ -88,7 +76,7 @@ Toss in VESC
 
 
 ## Major Milestone Targets
-* Offgrid power plant supporting water, cooling, & light. 25KWH energy storage integrated with .25-25kw VESC machines as end-to-end scalable in size & number. All inclusive system costs less than $500/kw.
+* Offgrid power plant supporting water, cooling, & light. 25KWH energy storage integrated with .25-25kw VESC machines as end-to-end scalable in size & number. All inclusive system costs less than $1/watt. 
 
 
 <br><br>
