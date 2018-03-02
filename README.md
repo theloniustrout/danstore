@@ -9,7 +9,7 @@ Raspberryproduce is a store for curating & distributing the best RPI Zero tools 
 
 ![Alt text](png/flatbread.png)
 
-The unifying concept for the store is a new class of PC, code name--Cuban Flatbread. This PC is designed to be a flexibile prototyping environment for power & mechanical systems. 
+The unifying concept for the store is a new class of PC, code name--Cuban Flatbread. This PC is designed to be a flexibile prototyping environment for simple & general purpose industrial processes as building blocks to systems of utility.
 
 The configuration reduces to the prototype & production tools as the prototype evolves, without significant changes to the dev-env. 
 
