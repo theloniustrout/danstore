@@ -24,7 +24,7 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 <br><br>
 <br><br>
 
-80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. Therefore potentially 5% or more overall gains are possible by lowering the price barrier to high performance energy utilization inherent in open systems designs. The initial reference design will focus on support systems for the VESC electric motor driver & power conversion software. 
+80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. Therefore potentially 5% or more overall gains are possible by lowering the price barrier to high performance energy utilization inherent in open systems designs. The initial reference design will focus on support systems for the VESC electric motor driver & power conversion software. A 50V 100A reference design is popular with the skate community, & a 75V 200A reference design is has been modeled in Spice.
 
 ![Alt text](png/vesc6.4.png)
 
@@ -32,11 +32,12 @@ The development concept is not unlike the [Two Cowboy](https://www.youtube.com/w
 
 Highly refined software commutation is now availble for not much more thatn the cost of the parts up to 10's of kw power density. Therefore, getting the best systems into builders hands brings the heart of mechanical industrial processes to the status of a commodity, circumventing the costs & misery of a gradual upgrade proess.
 
-![Alt text](png/igbt.png)
-
 Increasing the distribution of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of salaried labor via AI, robotics, & surveillance. The reference system provides a viable alternative for those interested in pursuing it. 
 
-All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution.
+
+All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution. This is an IGBT design based off a Silicon Carbide reference. The wide-bandgap materials are good for power densities in excess of a megawatt for a small system.
+
+![Alt text](png/igbt.png)
 
 
 <br><br>
