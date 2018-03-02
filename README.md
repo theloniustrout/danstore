@@ -7,10 +7,15 @@ Raspberryproduce is a store for curating & distributing the best RPI Zero tools 
 Specifically, the tool kits are dev tools for control & automation of: information, fluid & mechanical work & storage on the respective platforms: Linux/Python & [VESC](http://vesc-project.com) electrical power conversion.
 
 Energy generation is TBD. Possibilities include:<br />
-Ebay 30kw Capstone @ $100/kw; 25% electrical, 85% CHP; high power density<br />
-Solar<br />
+Stationary:<br />
+Solar $500/kw<br />
 Low head hydro<br />
+Mobile:<br />
+Ebay 30kw Capstone @ $100/kw; 25% electrical, 85% CHP; high power density<br />
 [Cyclone](http://cyclone-power.com) steam engines when they have something in production<br />
+Fuel:<br />
+Jim Moden NH3 monopropllent 
+Syngas
 
 
 
@@ -32,7 +37,7 @@ Low profile, highly integrated, with minimal need for breadboarding, simplifies 
 <br><br>
 <br><br>
 
-80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. Therefore potentially 5% or more overall gains are possible by lowering the price barrier to high performance energy utilization inherent in open systems designs. The initial reference design will focus on support systems for the VESC electric motor driver & power conversion software. A 50V 100A reference design is popular with the skate community, & a 75V 200A reference design is has been modeled in Spice.
+80% of all energy used on the planet goes to spinning electrical motors inefficiently. Developing nations are bringing more online exponentially with a bias toward inexpensive systems. 5%-50% worldwide net gains are possible by lowering the price barrier to high performance energy utilization inherent in open systems designs. The initial reference design will focus on support systems for the VESC electric motor driver & power conversion software. Ben Vedder's 50V 100A reference design is in high demand with the skate community, & a 75V 200A reference design is in the prototyping stage. An IGBT reference design is available with a clear path to SiC mosfets.
 
 ![Alt text](png/vesc6.4.png)
 
