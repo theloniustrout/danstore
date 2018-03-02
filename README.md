@@ -32,7 +32,7 @@ Highly refined software commutation is now availble for not much more thatn the 
 
 ![Alt text](png/igbt.png)
 
-Distributed ownership of manufacturing can compete effectively with centralized entities enganged in displacement of workers via AI,robotics, & compliant end-user adoption of leased products now institutionalized through decades of training & being consolidated by spying on purchasing behavior & mass movements.
+Increasing the distrubition of ownership of manufacturing & energy production can compete effectively with centralized entities enganged in displacement of workers via AI & robotics. Compliant end-user adoption of leased products is now institutionalized through decades of training & being consolidated by spying on purchasing behavior & mass movements. This will change rapidly with a better alternative put into place.
 
 All products are scalable from single family to village-sized or larger & are intended to outperform modern western industry standards, E.g. by utilizing wide-bandgap FOC drives with Python interfacing as the default solution.
 
