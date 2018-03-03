@@ -49,7 +49,7 @@ Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_f
 5x FETs, 5x LED, 2x 1Mohm, 2x 10Mohm, Iron, solder, flux, sponge, 5x protoboards
 ## Stage II
 RPI zero image
-Phat stack mini ➜ Sparkfun Qwiic connect ➜ I2C ADC [ADC PiZero](https://thepihut.com/products/adc-pizero)  2x MCP3424   I2C
+Phat stack mini ➜ Sparkfun Qwiic connect ➜ I2C ADC [ADC PiZero](https://thepihut.com/products/adc-pizero)  2x MCP3424<br />
 [analog zero](https://pinout.xyz/pinout/analog_zero)  MCP3008    8 channel SPI<br />
 [Phat DAC](https://www.digikey.com/product-detail/en/pimoroni-ltd/PIM138/1778-1054-ND/6928267&?gclid=EAIaIQobChMIk8rPu-_Q2QIVBQ5pCh3xIAn7EAQYAyABEgLNyfD_BwE)<br />
 [adafruit](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/overview)<br />
