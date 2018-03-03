@@ -73,16 +73,19 @@ Research RPI electroscope
 <br><br>
 
 ## Next Steps
-Source parts. Have: Zero, FET, cap, 1Mohm, breadboard, protoboard, surface mount short header, li-bat.<br />
-Don't have: Bat charger circuit, phat stack, solder.
+Source parts: 
 
-Test electroscope.<br />
-Write instructions for bringing to breadboard on-hand.<br />
-Write instructions for moving to protoboard on-hand.<br />
-Write instruction along the way.<br />
-Source solar charge circuit.<br />
-Determine minimum battery size.<br />
-Sourcing, assembly, testing of Cuban Flatbread<br />
+* Have: Zero, FET, cap, 1Mohm, li battery, breadboard, protoboard, surface mount short header, li-bat.
+* Don't have: Bat charger circuit, phat stack, solder.
+
+Test:
+* Test electroscope.<br />
+
+Write:
+
+* Write instructions for bringing to breadboard on-hand.<br />
+* Write instructions for moving to protoboard on-hand.<br />
+* Write instruction along the way.<br />
 <br><br>
 
 
@@ -94,5 +97,5 @@ Bitcoin:    36fAic98Sevtonnr75orbn3w3tGfVcct8V<br />
 STEEM:      @theloniustrout<br />
 
 
-[Wishlist](fuel.pdf)
+[Wishlist](doc/giftlist)
 
