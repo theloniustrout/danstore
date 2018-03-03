@@ -50,6 +50,7 @@ Portable, compact, RPI Zero focused breadboarding with integration of [Pigpio](h
 <br><br>
 ## Stage II [pdf](pdf/stageii.pdf)
 Cuban Flatbread: Multiple hats with GPIO &/or I2C plugs
+Check again pin collions: [pinout.xyz](https://pinout.xyz/phatstack)
 <br><br>
 ## Stage III
 General subsystems
