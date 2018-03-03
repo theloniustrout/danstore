@@ -2,7 +2,7 @@
 
 
 <br><br>
-Raspberryproduce is a store for curating & distributing the best RPI Zero tools with a focus on the design, development, & production of village infrastructure. Tool kits are in development for control & automation of energy, mechanical, & fluid systems.
+RPI Zero tools with a focus on the design, development, & production of village infrastructure. Tool kits are in development for control & automation of energy, mechanical, & fluid systems.
 
 
 <br><br>
@@ -35,7 +35,7 @@ The working assumption is that the barrier to adoption to commodity electromecha
 
 Increasing the distribution of ownership of manufacturing & energy production provides a means to disengage with centralized entities involved in displacement of salaried labor via AI, robotics, & surveillance & market-consolidation via mind control. The reference system in development is designed to provide a viable alternative for those interested in devloping these concepts in their communities.
 
-All products are designed to be scalable from single family to village-sized or larger & are intended to outperform modern industry standards. 
+All tools are designed to be scalable from single family to village-sized or larger & are intended to outperform modern industry standards. 
 
 ![Alt text](png/igbt.png)
 [IGBT design](https://github.com/paltatech/VESC-controller) based off a Silicon Carbide reference. The wide-bandgap materials are good for power densities in excess of a megawatt for a small system.
