@@ -21,7 +21,7 @@ Elecricity is everywhere & is creepy as hell--demon-straightion charge conservat
 
 <br><br>
 
-<article>(http://amasci.com/emotor/chargdet.html)
+[article](http://amasci.com/emotor/chargdet.html)
 ![Alt text](png/beatytitle.png)
 
 Cuban Flatbread portable prototyping workstation.
