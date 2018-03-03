@@ -76,16 +76,16 @@ Research RPI electroscope
 Source parts: 
 
 * Have: Zero, FET, cap, 1Mohm, li battery, breadboard, protoboard, surface mount short header, li-bat.
-* Don't have: Bat charger circuit, phat stack, solder.
+* Don't have: ADC, zero li charger, phat stack, solder, more short surface mount headers.
 
-Test:
-* Test electroscope.<br />
+Test/write:
+* Test electroscope
+* Write instructions for bringing to breadboard
+* Test electroscope ADC
+* Write instructions for ADC
 
-Write:
-
-* Write instructions for bringing to breadboard on-hand.<br />
-* Write instructions for moving to protoboard on-hand.<br />
-* Write instruction along the way.<br />
+* Write instructions for moving to protoboard
+* Write instruction along the way
 <br><br>
 
 
@@ -97,5 +97,5 @@ Bitcoin:    36fAic98Sevtonnr75orbn3w3tGfVcct8V<br />
 STEEM:      @theloniustrout<br />
 
 
-[Wishlist](doc/giftlist)
+[Giftlist](doc/giftlist)
 
