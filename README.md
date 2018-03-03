@@ -2,7 +2,7 @@
 
 
 <br><br>
-Raspberryproduce is a test store for RPI Zero based physics toys & learning steps from prototype to production.
+Raspberryproduce is a test store for RPI Zero based physics toys & learning steps from prototype to production. Test site is based on two popular items--open gate FET & Zero GPIO backplane. Sensor extension is via pluggable I2C sensor breakouts & DAC/ADC Hat. General functions via extension of pinouts.xyz. Electronics concepts via Carver Mead CED.
 
 
 <br><br>
@@ -10,24 +10,19 @@ Raspberryproduce is a test store for RPI Zero based physics toys & learning step
 
 RPI Zero Demon hunting kit
 Elecricity is creepy as hell--demon-straightion charge conservation in the style of Carver Mims.
-   CED versus fluid analogy of charge
+   CED not fluid analogy of charge, etc.
 
 * Basic analog kit
-* USB charged, solar powered kit
-* High power wifi enabled flashlight kit--dims light when demon present
+* USB [charged](https://github.com/NeonHorizon/lipopi), solar powered kit
 * Combine with Hats for custom displays.
+* High power wifi enabled flashlight kit--dims light when demon present
 
 
-REDONKULOUSLY SENSITIVE 1 FET
-ELECTRIC CHARGE DETECTOR 
-©1987 William J. Beaty
-<article>(http://amasci.com/emotor/chargdet.html)
 
-
-Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_field.html)
 
 <br><br>
 
+<article>(http://amasci.com/emotor/chargdet.html)
 ![Alt text](png/beatytitle.png)
 
 Cuban Flatbread portable prototyping workstation.
@@ -35,8 +30,11 @@ Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the 
 
 The design is intended to save time prototyping gizmos as well as larger systems in the same dev-env, to include all required system functionality & power, while minimzing custom work & maintaining a mobile environment. 
 
-Extend pinout.xyz to all known hats & add links to store.
+Extend [pinout.xyz](pinout.xyz) to all known hats & add links to store.
 
+
+
+Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_field.html)
 
 <br><br>
 ![Alt text](png/casestageiii.png)
