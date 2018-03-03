@@ -28,7 +28,7 @@ Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_f
 
 <br><br>
 
-![Alt text](png/flatbread.png)
+![Alt text](png/beatytitle.png)
 
 Cuban Flatbread portable prototyping workstation.
 Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector as the last Hat on the bus. 
