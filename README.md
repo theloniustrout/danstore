@@ -50,11 +50,11 @@ Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_f
 ## Stage II
 RPI zero image
 Phat stack mini ➜ Sparkfun Qwiic connect ➜ I2C ADC [ADC PiZero](https://thepihut.com/products/adc-pizero)  2x MCP3424   I2C
-[analog zero](https://pinout.xyz/pinout/analog_zero)  MCP3008    8 channel SPI
-[Phat DAC](https://www.digikey.com/product-detail/en/pimoroni-ltd/PIM138/1778-1054-ND/6928267&?gclid=EAIaIQobChMIk8rPu-_Q2QIVBQ5pCh3xIAn7EAQYAyABEgLNyfD_BwE)
-[adafruit](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/overview)
-[ADC boards](https://pinout.xyz/boards#type=ADC)
-Pull request for missing boards [github](https://github.com/gadgetoid/Pinout.xyz)
+[analog zero](https://pinout.xyz/pinout/analog_zero)  MCP3008    8 channel SPI<br />
+[Phat DAC](https://www.digikey.com/product-detail/en/pimoroni-ltd/PIM138/1778-1054-ND/6928267&?gclid=EAIaIQobChMIk8rPu-_Q2QIVBQ5pCh3xIAn7EAQYAyABEgLNyfD_BwE)<br />
+[adafruit](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/overview)<br />
+[ADC boards](https://pinout.xyz/boards#type=ADC)<br />
+Pull request for missing boards [github](https://github.com/gadgetoid/Pinout.xyz)<br />
 ## Stage III
 Cuban Flatbread: Add displays
 Pimoroni Phat Stack [adafruit](https://www.adafruit.com/product/3742) Out of stock
