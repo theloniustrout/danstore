@@ -2,7 +2,8 @@
 
 
 <br><br>
-Raspberryproduce is a test store for RPI Zero based physics toys & learning steps from prototype to production. Test site is based on two popular items--open gate FET & Zero GPIO backplane. Sensor extension is via pluggable I2C sensor breakouts & DAC/ADC Hat. General functions via extension of pinouts.xyz. Electronics concepts via Carver Mead CED.
+Raspberryproduce is a test store for RPI Zero based physics toys & learning steps from prototype to production. Test site is based on best bang for the buck analog educational circuit--open gate FET, & RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via fats in pinouts.xyz. Electronics concepts via Carver Mead CED.
+
 
 
 <br><br>
