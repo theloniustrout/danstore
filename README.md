@@ -24,6 +24,11 @@ Elecricity is everywhere & is creepy as hell--demon-straightion charge conservat
 [article](http://amasci.com/emotor/chargdet.html)
 ![Alt text](png/beatytitle.png)
 
+
+<br><br>
+<br><br>
+
+# Prototyping Kits from Analog to Electroscope Hat
 Cuban Flatbread portable prototyping workstation.
 Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector as the last Hat on the bus. 
 
