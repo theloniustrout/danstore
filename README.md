@@ -9,14 +9,13 @@ Raspberryproduce is a test store for RPI Zero based physics toys & learning step
 
 
 RPI Zero Demon hunting kit
-Elecricity is creepy as hell--demon-straightion charge conservation in the style of Carver Mims.
+Elecricity is everywhere & is creepy as hell--demon-straightion charge conservation in the style of Carver Mims.
    CED not fluid analogy of charge, etc.
 
 * Basic analog kit
-* USB [charged](https://github.com/NeonHorizon/lipopi), solar powered kit
-* Combine with Hats for custom displays.
-* High power wifi enabled flashlight kit--dims light when demon present
-
+* USB [charged](https://github.com/NeonHorizon/lipopi), [powerboost500](https://www.adafruit.com/product/1944)solar powered kit
+* Combine with Hats via GPIO bus for custom displays & analog synth action.
+* High power wifi enabled flashlight kit--dims light when demon present. Software tuned for broad & creepy dynamic range.
 
 
 
@@ -36,9 +35,6 @@ Extend [pinout.xyz](pinout.xyz) to all known hats & add links to store.
 
 Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_field.html)
 
-<br><br>
-![Alt text](png/casestageiii.png)
-<br><br>
 <br><br>
 
 
