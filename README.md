@@ -2,20 +2,22 @@
 
 
 <br><br>
-Raspberryproduce to see if Dan can sell stuff online. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. Test product is based on best bang for the buck analog educational circuit--open gate FET, & RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via fats in pinouts.xyz. Electronics concepts are a modern interpretation of Bill Beaty's original paper.
+Raspberryproduce.com is to test Dan's marketing chops. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. 
+
+Test product is based on best on the bang for the buck analog educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Electronics concepts are Carver Mims modern interpretation of Bill Beaty's original paper.
 
 
 
 <br><br>
 
 
+Elecricity is everywhere & it is creepy as hell.
 Everyone loves Demon hunting kits. Now on RPI Zero!
-Elecricity is everywhere & is creepy as hell--demon-straightion charge conservation in the style of Carver Mims.
-   CED not fluid analogy of charge, etc.
+   
 
 * Kit 1: 3x 1/4 size breadboard, jumpers, 5x LED, 5x FET
 * Kit 2: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
-* Kit 3: Battery charger & solar cell
+* Kit 3: Battery charger, solar cell, & LC circuit
 * Kit 4: A2D Hat & Pimoroni Phat Stack
 * Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for wide dynamic range.
 * Kit 6: Audio Synth options field modulated
@@ -29,7 +31,7 @@ Elecricity is everywhere & is creepy as hell--demon-straightion charge conservat
 [article](http://amasci.com/emotor/chargdet.html)
 ![Alt text](png/beatytitle.png)
 
-![Alt text](png/beatytitle.png)
+![Alt text](png/new.png)
 Internet of supernatural things!
 
 
