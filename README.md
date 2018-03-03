@@ -9,14 +9,18 @@ Raspberryproduce is a test store for RPI Zero based physics toys & learning step
 <br><br>
 
 
-RPI Zero Demon hunting kit
+RPI Zero Demon hunting kits
 Elecricity is everywhere & is creepy as hell--demon-straightion charge conservation in the style of Carver Mims.
    CED not fluid analogy of charge, etc.
 
-* Basic analog kit
-* USB [charged](https://github.com/NeonHorizon/lipopi), [powerboost500](https://www.adafruit.com/product/1944)solar powered kit
-* Combine with Hats via GPIO bus for custom displays & analog synth action.
-* High power wifi enabled flashlight kit--dims light when demon present. Software tuned for broad & creepy dynamic range.
+* Kit 1: 3x 1/4 size breadboard, jumpers, 5x LED, 5x FET
+* Kit 2: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
+* Kit 3: Battery charger & solar cell
+* Kit 4: A2D Hat & Pimoroni Phat Stack
+* Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for broad & creepy dynamic range.
+* Kit 6: Visual options field modulated
+* Kit 7: Audio Synth options field modulated
+* Kit 8: Young indstrualist kit--Kicad to PCB
 
 
 
@@ -43,11 +47,7 @@ Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_f
 <br><br>
 
 
-## Stage Zero
-5x FETs, 5x LED, 2x 1/4 size breadboard
-## Stage I
-5x FETs, 5x LED, 2x 1Mohm, 2x 10Mohm, Iron, solder, flux, sponge, 5x protoboards
-## Stage II
+## Source References
 RPI zero image
 Phat stack mini ➜ Sparkfun Qwiic connect ➜ I2C [ADC PiZero](https://thepihut.com/products/adc-pizero)  2x MCP3424<br />
 [analog zero](https://pinout.xyz/pinout/analog_zero)  MCP3008    8 channel SPI<br />
@@ -55,20 +55,11 @@ Phat stack mini ➜ Sparkfun Qwiic connect ➜ I2C [ADC PiZero](https://thepihut
 [adafruit](https://learn.adafruit.com/raspberry-pi-analog-to-digital-converters/overview)<br />
 [ADC boards](https://pinout.xyz/boards#type=ADC)<br />
 Pull request for missing boards [github](https://github.com/gadgetoid/Pinout.xyz)<br />
-## Stage III
-Cuban Flatbread: Add displays
 Pimoroni Phat Stack [adafruit](https://www.adafruit.com/product/3742) Out of stock<br />
 Check again pin collions: [pinout.xyz](https://pinout.xyz/phatstack)
-### Stage IV 
-Add audio synth from electroscope input.
-### Stage V 
-Solder electrocope to protohat
-## Stage VI
-Bring protohat circuit into Kicad
-## Stage VII
-Send Gerbers to PCB for production<br />
 Concept consolidation: rpi electroscope--from physics to production.
 <br><br>
+
 ## Status
 Research RPI electroscope
 <br><br>
@@ -78,6 +69,7 @@ Source parts:
 
 * Have: Zero, FET, cap, 1Mohm, li battery, breadboard, protoboard, surface mount short header, li-bat.
 * Don't have: ADC, zero li charger, phat stack, solder, more short surface mount headers.
+USB [charged](https://github.com/NeonHorizon/lipopi), [powerboost500](https://www.adafruit.com/product/1944)solar powered kit
 
 Test/write:
 * Test electroscope
