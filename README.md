@@ -2,14 +2,14 @@
 
 
 <br><br>
-Raspberryproduce is a test store for RPI Zero based physics toys & learning steps from prototype to production. Test site is based on best bang for the buck analog educational circuit--open gate FET, & RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via fats in pinouts.xyz. Electronics concepts via Carver Mead CED.
+Raspberryproduce to see if Dan can sell stuff online. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. Test product is based on best bang for the buck analog educational circuit--open gate FET, & RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via fats in pinouts.xyz. Electronics concepts are a modern interpretation of Bill Beaty's original paper.
 
 
 
 <br><br>
 
 
-RPI Zero Demon hunting kits
+Everyone loves Demon hunting kits. Now on RPI Zero!
 Elecricity is everywhere & is creepy as hell--demon-straightion charge conservation in the style of Carver Mims.
    CED not fluid analogy of charge, etc.
 
@@ -17,9 +17,9 @@ Elecricity is everywhere & is creepy as hell--demon-straightion charge conservat
 * Kit 2: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
 * Kit 3: Battery charger & solar cell
 * Kit 4: A2D Hat & Pimoroni Phat Stack
-* Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for broad & creepy dynamic range.
-* Kit 6: Visual options field modulated
-* Kit 7: Audio Synth options field modulated
+* Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for wide dynamic range.
+* Kit 6: Audio Synth options field modulated
+* Kit 7: Visual options field modulated
 * Kit 8: Young indstrualist kit--Kicad to PCB
 
 
@@ -28,6 +28,9 @@ Elecricity is everywhere & is creepy as hell--demon-straightion charge conservat
 
 [article](http://amasci.com/emotor/chargdet.html)
 ![Alt text](png/beatytitle.png)
+
+![Alt text](png/beatytitle.png)
+Internet of supernatural things!
 
 
 <br><br>
