@@ -2,9 +2,9 @@
 
 
 <br><br>
-Raspberryproduce.com is to test Dan's marketing chops. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. 
+Raspberryproduce.com is to test Dan's marketing chops cuz not gf's site. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. 
 
-Test product is based on best on the bang for the buck analog educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Charge conservation remixed by Jerry in the style of Carver Mims modern interpretation of Bill Beaty's original paper.
+Test product is based on best on the bang-for-buck analog maximally educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Charge conservation remixed by Jerry in the style of Carver Mim's modern interpretation of Bill Beaty's original paper.
 
 Everyone loves Demon hunting kits. Now on RPI Zero!
 
@@ -21,9 +21,6 @@ Elecricity is everywhere & it is creepy AF.
 * Kit 1: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
 * Kit 2: Joule Thief circuit
 * Kit 3: Battery charger, solar cell
-
-
-
 
 
 
@@ -76,7 +73,7 @@ Concept consolidation: rpi electroscope--from physics to production.
 <br><br>
 
 ## Status
-Concept & research
+Concept & research, feasibility, design.
 <br><br>
 
 ## Next Steps
@@ -84,7 +81,8 @@ Source parts:
 
 * Have: Zero, FET, cap, 1Mohm, li battery, breadboard, protoboard, surface mount short header, li-bat.
 * Don't have: ADC, zero li charger, phat stack, solder, more short surface mount headers.
-USB [charged](https://github.com/NeonHorizon/lipopi), [powerboost500](https://www.adafruit.com/product/1944)solar powered kit
+USB [charger](https://github.com/NeonHorizon/lipopi), [powerboost500](https://www.adafruit.com/product/1944) solar powered kit
+Sunpower Maxeon copper connect cell ebay.
 
 Test/write:
 * Test electroscope
