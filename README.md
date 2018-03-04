@@ -6,23 +6,24 @@ Raspberryproduce.com is to test Dan's marketing chops. RPI Zero based physics to
 
 Test product is based on best on the bang for the buck analog educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Electronics concepts are Carver Mims modern interpretation of Bill Beaty's original paper.
 
+Everyone loves Demon hunting kits. Now on RPI Zero!
+
 
 
 <br><br>
 
+# Analog baby!
 
 Elecricity is everywhere & it is creepy as hell.
-Everyone loves Demon hunting kits. Now on RPI Zero!
    
 
-* Kit 1: 3x 1/4 size breadboard, jumpers, 5x LED, 5x FET
-* Kit 2: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
-* Kit 3: Battery charger, solar cell, & LC circuit
-* Kit 4: A2D Hat & Pimoroni Phat Stack
-* Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for wide dynamic range.
-* Kit 6: Audio Synth options field modulated
-* Kit 7: Visual options field modulated
-* Kit 8: Young indstrualist kit--Kicad to PCB
+* Kit 0: 3x 1/4 size breadboard, jumpers, 5x LED, 5x FET
+* Kit 1: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
+* Kit 2: Joule Thief circuit
+* Kit 3: Battery charger, solar cell
+
+
+
 
 
 
@@ -38,7 +39,8 @@ Internet of supernatural things!
 <br><br>
 <br><br>
 
-# Prototyping Kits from Analog to Electroscope Hat
+# Bring on the Power!
+
 Cuban Flatbread portable prototyping workstation.<br />
 Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector as the last Hat on the bus. <br />
 
@@ -47,7 +49,16 @@ The design is intended to save time prototyping gizmos as well as larger systems
 Extend [pinout.xyz](pinout.xyz) to all known hats & add links to store.<br />
 
 
-Solarbotics version [circuits](http://solarbotics.net/library/circuits/sensors_field.html)
+
+## Linux prototyping kits for Electroscope Hat
+
+* Kit 4: A2D Hat & Pimoroni Phat Stack
+* Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for wide dynamic range.
+* Kit 6: Audio Synth options field modulated
+* Kit 7: Visual options field modulated
+* Kit 8: Young indstrualist kit--Kicad to PCB
+
+
 
 <br><br>
 
@@ -66,7 +77,7 @@ Concept consolidation: rpi electroscope--from physics to production.
 <br><br>
 
 ## Status
-Research RPI electroscope
+Concept & research
 <br><br>
 
 ## Next Steps
