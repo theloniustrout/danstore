@@ -4,7 +4,7 @@
 <br><br>
 Raspberryproduce.com is to test Dan's marketing chops. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. 
 
-Test product is based on best on the bang for the buck analog educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Electronics concepts are Carver Mims modern interpretation of Bill Beaty's original paper.
+Test product is based on best on the bang for the buck analog educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Charge conservation remixed by Jerry in the style of Carver Mims modern interpretation of Bill Beaty's original paper.
 
 Everyone loves Demon hunting kits. Now on RPI Zero!
 
@@ -14,7 +14,7 @@ Everyone loves Demon hunting kits. Now on RPI Zero!
 
 # Analog baby!
 
-Elecricity is everywhere & it is creepy as hell.
+Elecricity is everywhere & it is creepy AF.
    
 
 * Kit 0: 3x 1/4 size breadboard, jumpers, 5x LED, 5x FET
@@ -32,14 +32,13 @@ Elecricity is everywhere & it is creepy as hell.
 [article](http://amasci.com/emotor/chargdet.html)
 ![Alt text](png/beatytitle.png)
 
-![Alt text](png/new.png)
-Internet of supernatural things!
-
-
 <br><br>
 <br><br>
 
 # Bring on the Power!
+
+![Alt text](png/new.png)
+Internet of supernatural things!
 
 Cuban Flatbread portable prototyping workstation.<br />
 Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector as the last Hat on the bus. <br />
@@ -52,8 +51,8 @@ Extend [pinout.xyz](pinout.xyz) to all known hats & add links to store.<br />
 
 ## Linux prototyping kits for Electroscope Hat
 
-* Kit 4: A2D Hat & Pimoroni Phat Stack
-* Kit 5: High power wifi enabled flashlight kit--dims light when demon present. Software tuned for wide dynamic range.
+* Kit 4: A2D Hat & Pimoroni Phat Stack: bring in the signal & modulate stuff with charge differences!
+* Kit 5: High power flashlight kit--light is snuffed when demon present. Software tuned for wide dynamic range. Scalable to 3 channel VESC 30kw, 2S20P BC Series High CRI High Power Density COB LED Daylight 5600K - BC270H  Each channel tuned to a different hidden dimension for the low low price of $20,000. Tap into your mom's Prius & trip out the neighbors.
 * Kit 6: Audio Synth options field modulated
 * Kit 7: Visual options field modulated
 * Kit 8: Young indstrualist kit--Kicad to PCB
