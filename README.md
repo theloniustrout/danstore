@@ -27,7 +27,7 @@ Elecricity is everywhere & it is weird AF.
 * Kit 3: Battery charger, solar cell
 
 
-Muslim [bags](https://guide.alibaba.com/shop/rinas-garden-made-in-usa-100-cotton-muslin-drawstring-bags-3-x-5-50-bags_4671777.html) for kits. Laser cut rubber [stamp](https://learn.adafruit.com/laser-custom-stamps).
+Muslim [bags](https://guide.alibaba.com/shop/rinas-garden-made-in-usa-100-cotton-muslin-drawstring-bags-3-x-5-50-bags_4671777.html) for kits. Laser cut rubber [stamp](https://learn.adafruit.com/laser-custom-stamps) [service](https://www.rubberstamps.net/custom_rubber_stamps.aspx?gclid=EAIaIQobChMIweuRvqHT2QIVByhpCh2LMQI5EAAYASAAEgIOgvD_BwE) [rubber](https://www.ebay.com/i/331943870860?chn=ps)
 
 <br><br>
 
