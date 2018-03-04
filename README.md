@@ -34,11 +34,9 @@ Elecricity is everywhere & it is creepy AF.
 
 # Bring on the Power!
 
-![Alt text](png/new.png)
-Internet of supernatural things!
+🆕🆕🆕🆕 Internet of supernatural things!
 
-Cuban Flatbread portable prototyping workstation.<br />
-Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector as the last Hat on the bus. <br />
+Cuban Flatbread portable prototyping workstation.Shared GPIO bus for Hats utilizing a Pimoroni backplane in combination with the Sparkfun breakouts with 1mm pitch, 4-pin JST connector as the last Hat on the bus. <br />
 
 The design is intended to save time prototyping gizmos as well as larger systems in the same dev-env, to include all required system functionality & power, while minimzing custom work & maintaining a mobile environment. <br />
 
