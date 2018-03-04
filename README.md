@@ -2,9 +2,13 @@
 
 
 <br><br>
-Raspberryproduce.com is to test Dan's marketing chops cuz not gf's site. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. 
+Raspberryproduce.com is to test Dan's marketing chops. Because not gf's site. 
 
-Test product is based on best of bang-for-buck analog maximally educational circuit--freespace gate FET with the addition of Joule thief jiggles. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Charge conservation remixed by Jerry in the style of Carver Mim's modern interpretation of Bill Beaty's original paper.
+RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist but will soon once there are two products to put on there. Here is a family of possible products.
+
+Best bang-for-buck maximally educational circuit--freespace gate FET with the addition of Joule thief is the cheapo analog setup. But this is an RPI site, so...  An RPI Zero version thereof. The RPI is used to modulate the signal. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization & audio synth extensions via hats in [pinouts.xyc](http://pinouts.xyz) 
+
+Charge conservation tutorial remixed by Jerry in the style of Carver Mim's modern interpretation of Bill Beaty's original paper.
 
 Everyone loves Demon hunting kits. Now on RPI Zero!
 
@@ -14,11 +18,11 @@ Everyone loves Demon hunting kits. Now on RPI Zero!
 
 # Analog baby!
 
-Elecricity is everywhere & it is creepy AF.
+Elecricity is everywhere & it is weird AF.
    
 
-* Kit 0: 3x 1/4 size breadboard, jumpers, 5x LED, 5x FET
-* Kit 1: Iron, solder, flux, brass, 10x FET, 10x LED, 5x proto boards
+* Kit 0: 3x 1/4 size breadboard, [jumpers](https://www.aliexpress.com/item/Free-Shipping-140pcs-in-one-package-convenient-New-Solderless-Flexible-Breadboard-Jumper-wires-Cables-HOT-Sale/664098704.html?src=google&albslr=201159365&isdl=y&aff_short_key=UneMJZVf&source=%7Bifdyn:dyn%7D%7Bifpla:pla%7D%7Bifdbm:DBM&albch=DID%7D&src=google&albch=shopping&acnt=708-803-3821&isdl=y&albcp=653153647&albag=34728528644&slnk=&trgt=61865531738&plac=&crea=en664098704&netw=g&device=c&mtctp=&gclid=EAIaIQobChMIofj9qZfT2QIVhjppCh1QHg4yEAQYBSABEgI7ofD_BwE) [jumpers](https://www.aliexpress.com/item/130PC-24AWG-Breadboard-Jumper-Cable-Wires-Kit-Tinning-Double-Tinned-Component-Pack-Colorful-13-Types-10/32810506086.html?src=google&albslr=227881110&isdl=y&aff_short_key=UneMJZVf&source=%7Bifdyn:dyn%7D%7Bifpla:pla%7D%7Bifdbm:DBM&albch=DID%7D&src=google&albch=shopping&acnt=708-803-3821&isdl=y&albcp=653153647&albag=34728528644&slnk=&trgt=61865531738&plac=&crea=en32810506086&netw=g&device=c&mtctp=&gclid=EAIaIQobChMIuarQrpfT2QIVFMNkCh10YA4aEAkYByABEgK8zfD_BwE), 5x [LED](https://www.adafruit.com/product/1757?gclid=EAIaIQobChMIotK-8prT2QIVlq_ICh0U0AiJEAkYBSABEgJCb_D_BwE), 5x FET, [coin cell](https://www.aliexpress.com/item/10pcs-AG10-LR1130-389-LR54-SR54-SR1130W-189-L1130-button-Cell-Coin-Battery-for-watch/32814513882.html?src=google&albslr=220730340&isdl=y&aff_short_key=UneMJZVf&source=%7Bifdyn:dyn%7D%7Bifpla:pla%7D%7Bifdbm:DBM&albch=DID%7D&src=google&albch=shopping&acnt=708-803-3821&isdl=y&albcp=653153647&albag=34728528644&slnk=&trgt=68416666751&plac=&crea=en32814513882&netw=g&device=c&mtctp=&gclid=EAIaIQobChMIvMO3z5zT2QIVFLbACh1IaQIyEAYYASABEgLFn_D_BwE)
+* Kit 1: [Iron](https://www.aliexpress.com/premium/blue-hakko.html?d=y&origin=y&blanktest=0&SearchText=blue+hakko&tc=ppc&initiative_id=SB_20180304094714&isViewCP=y&catId=0), [holder](https://www.aliexpress.com/item/Metal-Soldering-Solder-Iron-Holder-Bracket-Black-with-yellow-blue-Sponge-for-hakko-aoyue-saike-soldering/32241857780.html?spm=2114.search0204.3.23.4c4c5377iPHua4&ws_ab_test=searchweb0_0,searchweb201602_2_10152_10151_10065_10344_10068_10130_10324_10342_10547_10325_10343_10546_10340_10548_10341_10545_10084_10083_10618_10307_5711211_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_10621_10620_5722415_5711313,searchweb201603_25,ppcSwitch_5_ppcChannel&algo_expid=b5881134-ddf3-4de8-9bdb-e14988251a43-3&algo_pvid=b5881134-ddf3-4de8-9bdb-e14988251a43&priceBeautifyAB=0), solder, flux, tip [brass](https://www.aliexpress.com/item/FIXFANS-Soldering-Iron-Tip-Brass-Wire-Cleaner-Ball-with-Metal-Stand-Case-Kit-for-Solder-Tip/32847609857.html?spm=2114.search0204.3.172.27c04d84n51ZKe&ws_ab_test=searchweb0_0,searchweb201602_2_10152_10151_10065_10344_10068_10130_10324_10342_10547_10325_10343_10546_10340_10548_10341_10545_10084_10083_10618_10307_5711211_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_10621_10620_5711311_5722415,searchweb201603_25,ppcSwitch_5_ppcChannel&algo_expid=582556ce-9d13-41b7-952d-5bf49d228baa-25&algo_pvid=582556ce-9d13-41b7-952d-5bf49d228baa&priceBeautifyAB=0), 22g wire, nippers, 10x FET, 10x LED, 5x proto boards  [china](https://www.aliexpress.com/item/5pcs-lot-3cm-x-7cm-Double-Side-prototype-pcb-3-7-Proto-Board/32758625747.html?spm=2114.search0104.8.4.cd572774Tc5sbg&priceBeautifyAB=0)
 * Kit 2: Joule Thief circuit
 * Kit 3: Battery charger, solar cell
 
