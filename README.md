@@ -4,7 +4,7 @@
 <br><br>
 Raspberryproduce.com is to test Dan's marketing chops cuz not gf's site. RPI Zero based physics toys & learning how to make an RPI Hat from prototype to production might be the eventual products of this store that doesn't yet exist. 
 
-Test product is based on best of bang-for-buck analog maximally educational circuit--open gate FET with the additoin of a LC circuit for max efficiency. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Charge conservation remixed by Jerry in the style of Carver Mim's modern interpretation of Bill Beaty's original paper.
+Test product is based on best of bang-for-buck analog maximally educational circuit--freespace gate FET with the addition of Joule thief jiggles. But there's more! An RPI Zero version thereof. Sensor extension is via pluggable I2C sensor & ADC Hat. Visualization extensions via hats in [pinouts.xyc](http://pinouts.xyz) Charge conservation remixed by Jerry in the style of Carver Mim's modern interpretation of Bill Beaty's original paper.
 
 Everyone loves Demon hunting kits. Now on RPI Zero!
 
